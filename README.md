@@ -21,7 +21,9 @@ npm install
 
 ##3. Set Up MongoDB
 
+ CHECK IN .env file and Uncomment the local mongodbUri and comment the mongodb atlas uri
 Make sure you have MongoDB installed and running on your local machine.
+
 
 ##Running the Project
 ##1. Start the Backend Server
