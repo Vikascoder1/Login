@@ -7,8 +7,13 @@
 ##2. Install Dependencies
 
 ##Navigate to the project directory and install the backend dependencies:
+
+ In the backend, create a file .env and enter the code below: 
+ MONGO_URI=mongodb://localhost:27017/Vikas12
+ JWT_SECRET=your_jwt_secret_key
  
 cd my-fullstack-app/backend
+
 
 npm install
 
@@ -23,7 +28,8 @@ npm install
 
  CHECK IN .env file and Uncomment the local mongodbUri and comment the mongodb atlas uri
 Make sure you have MongoDB installed and running on your local machine.
-
+In mongodb compass, create new connection with : mongodb://localhost:27017/Vikas12
+and click on connect
 
 ##Running the Project
 ##1. Start the Backend Server
