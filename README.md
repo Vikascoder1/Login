@@ -20,11 +20,8 @@ Ensure that you have the following installed on your machine:
 
 - **Node.js**: [Download Node.js](https://nodejs.org/)
 - **MongoDB**: [Install MongoDB locally](https://docs.mongodb.com/manual/installation/)
-- **NPM**: Comes with Node.js. Check version with:
-
-  ```bash
-  npm -v
-
+- **NPM**: Comes with Node.js.
+  
 ## Project Setup
 Step 1: Clone the Repository
 Clone this project repository using Git:
