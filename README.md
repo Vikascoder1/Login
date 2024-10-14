@@ -2,7 +2,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Vikascoder1/Sukriti.git
+   git clone https://github.com/Vikascoder1/Login.git
 
 ##2. Install Dependencies
 
