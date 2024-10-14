@@ -41,6 +41,7 @@ npm install
 
 Frontend
 Navigate to the frontend folder and install the React dependencies:
+
 cd ../frontend
 
 npm install
@@ -59,6 +60,7 @@ mongoose.connect(mongoURI, {
 Step 4: Start the Backend Server
 Navigate to the backend directory and start the server:
 cd backend
+
 npm start
 
 This will start your Express.js server on http://localhost:5000.
@@ -67,31 +69,47 @@ Step 5: Start the Frontend React App
 Navigate to the frontend directory and start the React development server:
 
 cd ../frontend
+
 npm start
 
 The React app will now be running on http://localhost:3000.
 
-Step 6: Open the Application
+##Step 6: Open the Application
 Once both the backend and frontend servers are running, you can open your browser and navigate to: http://localhost:3000
 
 Available Routes
+
 Backend (API Endpoints):
+
 User Registration: POST /api/auth/register
+
 User Login: POST /api/auth/login
+
 Frontend Routes:
+
 Home Page: /home
+
 Login Page: /login
+
 Registration Page: /
+
 Technologies Used
+
 Frontend:
 
 React.js
+
 Axios
+
 React Router DOM
+
 Backend:
 
 Node.js
+
 Express.js
+
 MongoDB
+
 Mongoose
 
